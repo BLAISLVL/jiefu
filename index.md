@@ -1,5 +1,5 @@
 ### 我的空间
-[百度](www.baidu.com)
+[百度](https://www.baidu.com)
 
 ```
 $ cd your_repo_root/repo_name
