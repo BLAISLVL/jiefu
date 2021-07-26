@@ -1,6 +1,6 @@
 ### 我的空间
 [百度](https://www.baidu.com)
-[EDD动漫]（http://www.eddh.net)
+[EDD动漫]（www.eddh.net)
 ```
 $ cd your_repo_root/repo_name
 $ git fetch origin
